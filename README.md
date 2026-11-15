@@ -116,3 +116,4 @@ The query **Mirage Estate Phantom Blade Zero** is a useful starting point for ch
 ### Keys, hidden items and 100 percent completion
 
 Queries such as **Phantom Blade Zero Backstreet Courtyard Key**, **Phantom Blade Zero Flesh Lily**, **Phantom Blade Zero missables** and **Phantom Blade Zero 100 percent completion** often overlap. CollectibleAtlas groups your progress into checkable categories so the final cleanup is easier to plan. The Windows archive is available through the direct GitHub Releases download at the top of this README.
+ 
